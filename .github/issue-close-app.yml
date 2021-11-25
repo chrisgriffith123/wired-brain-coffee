@@ -6,12 +6,12 @@ issueConfigs:
 # Example 1: bug report
   - "Describe the Bug"
   - "Steps to Reproduce"
-  - "Expected Behavior"
-  - "Current Behavior"
+  - "Expected Behaviour"
+  - "Current Behaviour"
 - content:
 # Example 2: feature request
   - "Use Case"
-  - "Expected Behavior"
+  - "Expected Behaviour"
   - "Additional Context"
 # The issue is judged to be legal if it includes all keywords from any of these two configs.
 # Or it will be closed by the app.
